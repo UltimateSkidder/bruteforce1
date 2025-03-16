@@ -1,5 +1,6 @@
 @echo off
 title Bruteforce - Iso
+chcp 65001 >nul
 
 
 Echo ▄▄▄▄    ██▀███   █    ██ ▄▄▄█████▓▓█████   █████▒▒█████   ██▀███   ▄████▄  ▓█████ 
